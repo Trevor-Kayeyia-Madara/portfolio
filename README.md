@@ -8,7 +8,7 @@ My portfolio outlines about myself, my project , skills, testimonials
 My Portfolio
 git@github.com:Trevor-Kayeyia-Madara/portfolio.git
 ## Live Link
-[Portfolio](https://trevor-kayeyia-madara.github.io)
+[Portfolio](https://trevor-kayeyia-madara.github.io/portfolio/)
 ## Reach me
 Reach me out via email trevormadarakayeyia@gmail.com
 
